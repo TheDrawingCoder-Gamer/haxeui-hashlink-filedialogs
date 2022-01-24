@@ -3,7 +3,8 @@ package haxe.ui.backend;
 #if hl
 import haxe.io.Path;
 import haxe.ui.backend.SelectFileDialogBase;
-
+import sys.io.File;
+import haxe.ui.containers.dialogs.Dialog.DialogButton;
 class SelectFileDialogImpl extends SelectFileDialogBase {
     public override function show() {
         validateOptions();

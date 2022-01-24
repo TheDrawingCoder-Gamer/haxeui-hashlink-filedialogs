@@ -1,0 +1,22 @@
+{
+    "contributors": [
+        "haxeui",
+        "ianharrigan",
+        "bulbyvr"
+    ],
+    "version": "1.3.0",
+    "dependencies": {
+        "haxeui-core": "",
+        "hxWidgets": ""
+    },
+    "releasenote": "1.3 release",
+    "tags": [
+        "ui",
+        "hl",
+        "gui"
+    ],
+    "license": "MIT",
+    "name": "haxeui-hashlink-filedialogs",
+    "description": "A fallback select file dialog implementation for HL targets.",
+    "url": "https://github.com/TheDrawingCoding-Gamer/haxeui-hashlink-filedialogs"
+}
